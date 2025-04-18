@@ -28,8 +28,8 @@ This interactive **Sales Dashboard** was built using **Power BI** to provide bus
 
 ## 💡 Business Insights (Sample)
 
-- **Printers** generated the highest profit (~₹8.6K).
-- Profits peaked in **January** and **November** (₹10K+).
+- **Printers** generated the highest profit (~$8.6K).
+- Profits peaked in **January** and **November** ($10K+).
 - A specific payment method contributed to **43.74%** of total transactions.
 - Top customers: **Vrinda, Yogesh, Yohann**.
 - Slight dip in profits during **July to September** suggests a need for marketing efforts.
